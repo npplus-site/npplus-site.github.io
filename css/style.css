@@ -798,7 +798,7 @@ a:focus {
     padding-right: 5%;
   }
   #메인 main {
-    height: auto;
+    height: 800px;
     padding: 40px 0;
   }
   #메인 main div {
