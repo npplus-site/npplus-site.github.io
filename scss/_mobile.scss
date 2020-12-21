@@ -6,10 +6,13 @@
   }
   #메인 {
     main {
-      height: 800px;
+      height: 900px;
       padding: 40px 0;
       div {
         flex-direction: column;
+        &.book-cover {
+          padding-top: 30px;
+        }
       }
     }
   }
