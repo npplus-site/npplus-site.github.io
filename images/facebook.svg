@@ -1,0 +1,40 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  id="Layer_1"
+  x="0px"
+  y="0px"
+  width="36.865px"
+  height="36.865px"
+  viewBox="0 0 36.865 36.865"
+  enable-background="new 0 0 36.865 36.865"
+  xml:space="preserve"
+>
+  <g>
+    <defs>
+      <rect id="SVGID_1_" width="36.865" height="36.865" />
+    </defs>
+    <clipPath id="SVGID_2_">
+      <use xlink:href="#SVGID_1_" overflow="visible" />
+    </clipPath>
+    <path
+      clip-path="url(#SVGID_2_)"
+      fill="#005D90"
+      d="M36.864,18.433c0,10.18-8.252,18.432-18.432,18.432   C8.252,36.865,0,28.613,0,18.433S8.252,0.001,18.433,0.001C28.612,0.001,36.864,8.253,36.864,18.433"
+    />
+  </g>
+  <g>
+    <defs>
+      <circle id="SVGID_3_" cx="18.432" cy="18.433" r="18.433" />
+    </defs>
+    <clipPath id="SVGID_4_">
+      <use xlink:href="#SVGID_3_" overflow="visible" />
+    </clipPath>
+    <path
+      clip-path="url(#SVGID_4_)"
+      fill="#FFFFFF"
+      d="M28.664,13.231h-4.481V8.99c0-0.071,0.058-0.131,0.127-0.131h2.929   c1.494,0,2.705-1.249,2.705-2.788c0-1.54-1.211-2.789-2.705-2.789H24.31c-3.06,0.002-5.535,2.555-5.537,5.708v4.242H15.25   c-1.493,0-2.704,1.248-2.704,2.788s1.211,2.79,2.704,2.79h3.522v15.396c0,1.541,1.212,2.789,2.704,2.789   c1.494,0,2.706-1.248,2.706-2.789V18.81h4.481c1.492,0,2.703-1.25,2.703-2.79S30.156,13.231,28.664,13.231"
+    />
+  </g>
+</svg>
