@@ -730,7 +730,7 @@ body {
   height: 100%;
   min-height: 100%;
   background-color: #ffffff;
-  font-family: "KoPub Dotum", sans-serif;
+  font-family: "KoPub Dotum", "Noto Sans KR", sans-serif;
   font-weight: normal;
   line-height: 1.6;
   letter-spacing: -0.6px;
