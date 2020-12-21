@@ -446,6 +446,7 @@
       $(window).on('hashchange', function(){
         const bookmark = window.location.hash.substr(1)-1
         window.swiper.slick('slickGoTo', bookmark)
+        $('#menu').removeClass('open')
       })
     </script>
     <script>
