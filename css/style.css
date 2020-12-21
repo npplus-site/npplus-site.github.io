@@ -109,7 +109,7 @@ header > div .header button img {
   padding: 10px;
   -webkit-transition: 0s;
   transition: 0s;
-  text-align: end;
+  text-align: right;
   font-size: 22px;
   color: transparent;
 }
@@ -916,8 +916,8 @@ a:focus {
     max-width: 60%;
   }
   footer {
-    min-height: 180px;
-    padding: 20px 0;
+    min-height: 200px;
+    padding: 20px 0 40px 0;
   }
   footer > div {
     -webkit-box-orient: vertical;
