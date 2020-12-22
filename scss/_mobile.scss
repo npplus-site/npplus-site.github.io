@@ -9,9 +9,21 @@
       height: 900px;
       padding: 40px 0;
       div {
+        flex: 1;
         flex-direction: column;
+        padding: 0 2%;
         &.book-cover {
-          padding-top: 30px;
+          padding-top: 0px;
+        }
+        &.book-info {
+          display: flex;
+          padding: 0;
+          height: auto;
+          .book-title {
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 30px;
+          }
         }
       }
     }
@@ -34,6 +46,9 @@
         border: none;
         border-bottom: 10px solid white;
         .main-image {
+          a {
+            width: auto;
+          }
           padding-bottom: 40px;
           justify-content: center;
         }
@@ -193,17 +208,31 @@
       font-size: 18px;
     }
   }
-  #메인 main > div {
-    .book-title {
-      strong {
-        font-size: 26px;
-      }
-      p {
-        font-size: 35px;
+  #메인 {
+    main {
+      height: 650px;
+      padding: 40px 0;
+      > div {
+        .book-cover {
+          img {
+            height: 330px;
+          }
+        }
+        .book-title {
+          strong {
+            font-size: 26px;
+          }
+          p {
+            font-size: 35px;
+          }
+        }
+        .book-desc p {
+          font-size: 15px;
+        }
       }
     }
-    .book-desc p {
-      font-size: 15px;
+    section {
+      padding: 40px 0;
     }
   }
   #상세 {
