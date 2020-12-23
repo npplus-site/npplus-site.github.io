@@ -8,19 +8,23 @@
     main {
       height: 900px;
       padding: 40px 0;
-      div {
-        flex: 1;
+      > div {
         flex-direction: column;
         padding: 0 2%;
-        &.book-cover {
+        > div {
+          width: 100%;
+        }
+        .book-cover {
+          justify-content: center;
           padding-top: 0px;
         }
-        &.book-info {
+        .book-info {
           display: flex;
-          padding: 0;
-          height: auto;
+          flex-direction: column;
+          padding-top: 66px;
           .book-title {
             display: flex;
+            flex-direction: column;
             justify-content: flex-end;
             margin-bottom: 30px;
           }
