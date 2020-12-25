@@ -347,11 +347,6 @@ address {
   height: 100%;
 }
 
-#목차 main .pdf .main-image a img {
-  width: 100%;
-  height: auto;
-}
-
 #목차 main .list {
   -webkit-box-flex: 6.5;
       -ms-flex: 6.5;
