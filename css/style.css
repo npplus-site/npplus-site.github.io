@@ -12,15 +12,15 @@
 }
 
 .caption01 {
-  font-size: 19px;
+  font-size: 23px;
 }
 
 .caption01 p {
-  font-size: 19px !important;
+  font-size: 23px !important;
 }
 
 .caption02 {
-  font-size: 15px;
+  font-size: 19px;
 }
 
 .text-center {
@@ -448,17 +448,17 @@ address {
 }
 
 #목차 main .list .swiper-wrapper .title {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 #목차 main .list .swiper-wrapper .sub-title {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 #목차 main .list .swiper-wrapper .badge {
   margin-right: 10px;
-  padding: 0 5px 2px 4px;
-  font-size: 14px;
+  padding: 2px 5px 2px 4px;
+  font-size: 18px;
   line-height: 1;
   background-color: #005ba0;
   color: white;
@@ -512,6 +512,7 @@ address {
   width: 100%;
   background-color: #005ba0;
   color: white;
+  font-size: 20px;
 }
 
 #상세 .chapter-title > div {
@@ -616,8 +617,8 @@ address {
 
 #상세 .layout-content > p {
   margin-bottom: 20px;
-  font-size: 18px;
-  line-height: 32px;
+  font-size: 22px;
+  line-height: 36px;
   text-align: justify;
 }
 
@@ -627,6 +628,7 @@ address {
   background: #0098b6;
   text-align: center;
   color: white;
+  font-size: 20px;
 }
 
 #상세 .돋보기타이틀 {
@@ -671,7 +673,7 @@ address {
   margin: 40px 0 20px 0;
   color: #005ba0;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 24px;
 }
 
 #상세 .article-footer {

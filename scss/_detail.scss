@@ -3,6 +3,7 @@
     width: 100%;
     background-color: $menu-text-color;
     color: white;
+    font-size: 20px;
     > div {
       text-align: right;
     }
@@ -86,8 +87,8 @@
   /* 컨텐츠 문장 문단 스타일*/
   .layout-content > p {
     margin-bottom: 20px;
-    font-size: 18px;
-    line-height: 32px;
+    font-size: 22px;
+    line-height: 36px;
     text-align: justify;
   }
   .돋보기 {
@@ -96,6 +97,7 @@
     background: $light-blue;
     text-align: center;
     color: white;
+    font-size: 20px;
   }
   .돋보기타이틀 {
     margin: 60px 0 70px 0;
@@ -132,7 +134,7 @@
     margin: 40px 0 20px 0;
     color: $menu-text-color;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 24px;
   }
   .article-footer {
     margin-top: 60px;
